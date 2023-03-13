@@ -1,39 +1,78 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
+    "version": 2.0,
+    "questions": [{
+            "question": "Q1. The electrode potential measures the _____________",
+            "answers": {
+                "a": "The tendency of the electrode to gain or lose electrons.",
+                "b": "Possibility of a cell reaction to occur.",
+                "c": "Current.",
+                "d": "The difference in the ionization of electrode and metal ion."
+            },
+            "correctAnswer": "a"
+        }, {
+            "question": "Q2. Which of the following is not a part of the three-electrode system?",
+            "answers": {
+                "a": "Auxiliary electrode.",
+                "b": "Working electrode.",
+                "c": "Reference electrode.",
+                "d": "Conducting electrode."
+            },
+            "correctAnswer": "d"
+        }, {
+            "question": "Q3. In anodic stripping voltammetry, the deposition step is:",
+            "answers": {
+                "a": "Reduction",
+                "b": "Oxidation.",
+                "c": "Unnecessary.",
+                "d": "Reduction and oxidation."
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q4. What are the common parameters involved in voltammetry?",
+            "answers": {
+                "a": "Current and electrodes.",
+                "b": "Potential and current.",
+                "c": "Current and resistance.",
+                "d": "Potential and resistance."
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q5. For which of the following technique, the potential waveform is a series of potential pulses of increasing amplitude, with potential returning to the baseline each time?",
+            "answers": {
+                "a": "Differential pulse voltammetry.",
+                "b": "Stripping voltammetry.",
+                "c": "Normal pulse voltammetry.",
+                "d": "Differential pulse anodic stripping voltammetry."
+            },
+            "correctAnswer": "a"
+        }, {
+            "question": "Q6. Which of the following curve is obtained during the voltammetric analysis of an electroactive analyte?",
+            "answers": {
+                "a": "Charge time curve.",
+                "b": "Current-potential curve.",
+                "c": "Current-time curve.",
+                "d": "Charge temperature curve."
+            },
+            "correctAnswer": "b"
+        }, {
+            "question": "Q7. Which of the following is an advantage of the dropping mercury electrode?",
+            "answers": {
+                "a": "A fresh reaction surface is provided with each drop of mercury so that material does not accumulate at the electrode.",
+                "b": "It is a less expensive electrode.",
+                "c": "It is comparatively easier to obtain.",
+                "d": "It can drive a reaction at a low temperature."
+            },
+            "correctAnswer": "a"
+        }, {
+            "question": "Q8. In ASV, the metal ions in a sample are concentrated onto the electrode surface by application of a ___________",
+            "answers": {
+                "a": "Negative potential.",
+                "b": "Positive potential.",
+                "c": "Negative current.",
+                "d": "Positive current."
+            },
+            "correctAnswer": "a"
+        
+        }
+    ]
 }
