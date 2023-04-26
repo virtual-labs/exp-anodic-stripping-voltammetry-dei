@@ -1,6 +1,6 @@
 ### Procedure:
 
-● Clean the electrochemical cell and the electrodes with doubled distilled water.
+● Clean the electrochemical cell and the electrodes with double distilled water.
 <br>
 ● Take a 15-20 ml of water sample in the electrochemical cell.
 <br>
