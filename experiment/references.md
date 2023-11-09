@@ -7,4 +7,3 @@
 <br>
 ● A review on various electrochemical techniques for heavy metal ions detection with different sensing platforms by Bansod, Kumar, Thakur, Rana, and Singh.
 <br>
-● Google.
