@@ -1,7 +1,7 @@
 ### Theory: 
 <p>Pulse voltammetry methods can be coupled with a pre-concentration step ‌to enrich the electrode surface with the analyte of interest, followed by a pulse anodic stripping voltammetry (ASV). 
 It is a voltammetric method for the quantitative determination of specific ionic species. ASV itself is an attractive technique for rapid and sensitive determination of trace metals in solution. The
-main advantage of this methods is the excellent limit of detection (LOD) that can be reached (in the ppb range) and it’s all because of the efficient removal of the capacitive current since the
+main advantage of this method is the excellent limit of detection (LOD) that can be reached (in the ppb range) and it’s all because of the efficient removal of the capacitive current since the
 current is sampled at the end of the pulse potential, where the faradaic current is predominant.</p>
 <p>ASV or DPASV are widely used especially where high sensitivity is necessary. Nanomolar (10<sup>-9</sup>M) or part per trillion (ppt) detection is achievable using ASV. The metal ions being analyzed
 are first reduced into a hanging mercury drop electrode for a fixed period. This reduction is performed at a cathodic applied potential E<sub>app</sub> sufficiently negative to ensure the reduction of all
