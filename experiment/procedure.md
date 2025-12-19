@@ -28,7 +28,9 @@ The DP stripping voltammogram (current vs potential) exhibits sharp anodic peaks
 <div align="center">
   <img src="images/procedure1.png">
 </div>
+<br>
 ### Precaution:
+
 ●	The DME assembly should be mounted vertically on a heavy stand to be free from vibrations.<br>
 ●	Polish the glassy carbon electrode under light pressure with an alumina slurry on a micro-cloth polishing pad using a figure 8 motion.<br>
 ●	There should be sufficient mercury in the reservoir so that the pressure changes are negligible.<br>
