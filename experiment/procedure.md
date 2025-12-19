@@ -17,7 +17,7 @@
 ### Observations:
 ●	Upon application of the deposition potential, metal ions present in the water sample were preconcentrated onto the working electrode surface by reduction.<br>
 
-●	During the differential pulse stripping step, well-defined current peaks were observed in the voltammogram at characteristic potentials corresponding to individual heavy metal ions ( Pb<sup>2+</sup), Cd<sup>2+</sup>, Cu<sup>2+</sup>).<br>
+●	During the differential pulse stripping step, well-defined current peaks were observed in the voltammogram at characteristic potentials corresponding to individual heavy metal ions ( Pb<sup>2+</sup>, Cd<sup>2+</sup>, Cu<sup>2+</sup>).<br>
 
 ●	The peak current increased proportionally with metal ion concentration, indicating effective accumulation and stripping.<br>
 
