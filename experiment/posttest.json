@@ -1,7 +1,7 @@
 {
     "version": 2.0,
     "questions": [{
-            "question": "Q1. The migrations of particles in the solution are in these three ways, except ______________ ",
+            "question": "The migrations of particles in the solution are in these three ways, except ______________",
             "answers": {
                 "a": "Diffusion.",
                 "b": "Immigration.",
@@ -72,24 +72,6 @@
                 "d": "Quantitative analysis."
             },
             "correctAnswer": "a"
-        }, {
-            "question": "Q9. Which of the following electrodes are often used as counter or auxiliary electrode in voltammetry?",
-            "answers": {
-                "a": "Calomel electrode",
-                "b": "Carbon paste",
-                "c": "Platinum wire",
-                "d": "Mercury thin film"
-            },
-            "correctAnswer": "c"
-        }, {
-            "question": "Q10. Which of the following voltammetric techniques enhances the sensitivity through improving the faradaic current?",
-            "answers": {
-                "a": "Differential pulse voltammetry",
-                "b": "Square wave voltammetry",
-                "c": "Cyclic voltammetry",
-                "d": "Stripping voltammetry"
-            },
-            "correctAnswer": "b"
         }
     ]
 }
