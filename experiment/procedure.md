@@ -29,6 +29,7 @@ The DP stripping voltammogram (current vs potential) exhibits sharp anodic peaks
   <img src="images/procedure1.png">
 </div>
 <br>
+
 ### Precaution:
 
 ●	The DME assembly should be mounted vertically on a heavy stand to be free from vibrations.<br>
