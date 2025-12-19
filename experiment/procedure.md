@@ -24,7 +24,10 @@
 ●	The background current remained low, confirming minimal interference from the electrolyte and supporting selective metal detection.<br>
 
 ### Result Interpretation:
-The DP stripping voltammogram (current vs potential) exhibits sharp anodic peaks at specific potentials, each representing the oxidation (stripping) of a particular heavy metal deposited on the electrode surface. The peak potential enables qualitative identification of the metal ion, while the peak current is directly proportional to its concentration in the water sample. By comparing peak currents with calibration plots obtained from standard solutions, the concentrations of heavy metal ions in the water sample can be accurately quantified. The clear peak separation and enhanced sensitivity demonstrate the suitability of differential pulse stripping voltammetry for trace-level heavy metal analysis in environmental water samples.
+The DP stripping voltammogram (current vs potential) exhibits sharp anodic peaks at specific potentials, each representing the oxidation (stripping) of a particular heavy metal deposited on the electrode surface. The peak potential enables qualitative identification of the metal ion, while the peak current is directly proportional to its concentration in the water sample. By comparing peak currents with calibration plots obtained from standard solutions, the concentrations of heavy metal ions in the water sample can be accurately quantified. The clear peak separation and enhanced sensitivity demonstrate the suitability of differential pulse stripping voltammetry for trace-level heavy metal analysis in environmental water samples.<br>
+<div align="center">
+  <img src="images/procedure1.png">
+</div>
 ### Precaution:
 ●	The DME assembly should be mounted vertically on a heavy stand to be free from vibrations.<br>
 ●	Polish the glassy carbon electrode under light pressure with an alumina slurry on a micro-cloth polishing pad using a figure 8 motion.<br>
