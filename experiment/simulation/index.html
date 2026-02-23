@@ -1984,6 +1984,7 @@ $("#chartContainer1").CanvasJSChart(options);
 		$("#step3").hide();
 		$("#b121").hide();
 		$("#b12").show();
+		$("#b1212").show();
 		$("#step4").hide();
 		$("#step5").hide();
 		$("#step6").hide();
@@ -3126,12 +3127,41 @@ $("#chartContainer3").CanvasJSChart(options);
 				<span id="rank1"></span>
 				<img src=""  id="step8img" style="width:640px;height:480px;">
 				</p>
-				<div style="display:none;padding-top:100px;" id="b12">
-				<video width="640" height="480" src="images\video.mp4" controls>
-					
-					</video>
-				</div>
+				<div style="display:flex; gap:20px; align-items:flex-start;padding-top:120px;">
+
+				<!-- Table Section (Left) -->
+					<div id="b1212" style="width:50%;display:none;">
+						<table style="width:100%; border-collapse:collapse; text-align:center;">
+							<tr style="background-color:#f2f2f2;">
+								<th style="border:1px solid #000; padding:8px;">S.N.</th>
+								<th style="border:1px solid #000; padding:8px;">Potential(V)</th>
+								<th style="border:1px solid #000; padding:8px;">Current(A)</th>
+								<th style="border:1px solid #000; padding:8px;">Peak Area</th>
+							</tr>
+							<tr>
+								<td style="border:1px solid #000; padding:8px;">1</td>
+								<td style="border:1px solid #000; padding:8px;">-0.3756</td>
+								<td style="border:1px solid #000; padding:8px;">1.1136E-05</td>
+								<td style="border:1px solid #000; padding:8px;">7.5213E-07</td>
+							</tr>
+							<tr>
+								<td style="border:1px solid #000; padding:8px;">2</td>
+								<td style="border:1px solid #000; padding:8px;">0.037231</td>
+								<td style="border:1px solid #000; padding:8px;">6.1002E-06</td>
+								<td style="border:1px solid #000; padding:8px;">5.1192E-07</td>
+							</tr>
+						</table>
+					</div>
+
+					<!-- Video Section (Right) -->
+					<div id="b12" style="width:50%; text-align:right;display:none;">
+						<video width="100%" controls>
+							<source src="images/video.mp4" type="video/mp4">
+							Your browser does not support the video tag.
+						</video>
+					</div>
 			 </div>
+			</div>
 			 <!-- End step8-->
 		</div>
 		<div id="rightsidebar" class="rightsidebar" style="display:none;">
