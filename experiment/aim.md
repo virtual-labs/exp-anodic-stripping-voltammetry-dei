@@ -1,5 +1,5 @@
 ### Aim:
-Electrochemical measurement of heavy metal ions in a water sample with the help of differential pulse stripping voltammetry.<br>
+Electrochemical measurement of heavy metal ions in a water sample with the help of differential pulse anodic stripping voltammetry.<br>
 ### Introduction:
 Heavy metal ions are one of the primary sources of water pollution, as they are non-
 biodegradable and contaminate most of the natural resources occurring in the environment.
